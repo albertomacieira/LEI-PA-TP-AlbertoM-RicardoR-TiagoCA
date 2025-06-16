@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket2Help", "Ticket2Help.csproj", "{2F053D2E-9F05-4C07-B440-6BE235993870}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI.csproj", "{2F053D2E-9F05-4C07-B440-6BE235993870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket2Help.Models", "..\Ticket2Help.Models\Ticket2Help.Models.csproj", "{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket2Help.DAL", "..\Ticket2Help.DAL\Ticket2Help.DAL.csproj", "{32995728-E074-4888-9851-D5F6A18BEC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket2Help.BLL", "..\Ticket2Help.BLL\Ticket2Help.BLL.csproj", "{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +21,23 @@ Global
 		{2F053D2E-9F05-4C07-B440-6BE235993870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F053D2E-9F05-4C07-B440-6BE235993870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F053D2E-9F05-4C07-B440-6BE235993870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32995728-E074-4888-9851-D5F6A18BEC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32995728-E074-4888-9851-D5F6A18BEC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32995728-E074-4888-9851-D5F6A18BEC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32995728-E074-4888-9851-D5F6A18BEC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0C86FD-072C-4119-9C36-63B8B7EF79A5}
 	EndGlobalSection
 EndGlobal

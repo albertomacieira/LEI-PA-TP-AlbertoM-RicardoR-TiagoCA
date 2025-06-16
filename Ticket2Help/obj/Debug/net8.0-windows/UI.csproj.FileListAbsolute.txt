@@ -1,0 +1,9 @@
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\Views\DashboardView.baml
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\Views\UserDashboardView.baml
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\Views\UserDashboardView.g.cs
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\UI_MarkupCompile.cache

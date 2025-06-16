@@ -1,12 +1,21 @@
-﻿<Window x:Class="Ticket2Help.MainWindow"
+﻿<Window x:Class="UI.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Ticket2Help"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Login" Height="250" Width="400">
+    <Grid Margin="20">
+        <StackPanel VerticalAlignment="Center">
+            <!-- Username TextBox com "placeholder" funcional -->
+            <TextBox x:Name="txtUsername"
+                     Text="Username"
+                     Foreground="Gray"
+                     Margin="0,0,0,10"
+                     GotFocus="TextBox_GotFocus"
+                     LostFocus="TextBox_LostFocus" />
 
+            <!-- PasswordBox (podes querer algo similar para placeholder aqui também) -->
+            <PasswordBox x:Name="txtPassword" Margin="0,0,0,10" />
+
+            <Button Content="Login" Width="100" HorizontalAlignment="Center" Click="Login_Click"/>
+        </StackPanel>
     </Grid>
 </Window>
