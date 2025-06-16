@@ -1,10 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\",
+  "WorkspaceRootPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|Ticket2Help.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\userdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\userdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\userdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\userdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\techniciandashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\techniciandashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\techniciandashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\techniciandashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}|..\\Ticket2Help.Models\\Ticket2Help.Models.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}|..\\Ticket2Help.Models\\Ticket2Help.Models.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.models\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\repositorios\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\repositorios\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|Ticket2Help.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|Ticket2Help.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\ticket2help.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\ticket2help.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9688E0C-C0D8-4FE8-96B3-22EB67A31702}|..\\Ticket2Help.Models\\Ticket2Help.Models.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.models\\ticket2help.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +132,447 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TechnicianDashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\TechnicianDashboardView.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml",
+              "RelativeToolTip": "Views\\TechnicianDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T19:12:52.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserDashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\UserDashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\UserDashboardView.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\UserDashboardView.xaml",
+              "RelativeToolTip": "Views\\UserDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T19:11:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\UserDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserDashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\UserDashboardView.xaml.cs",
+              "RelativeToolTip": "Views\\UserDashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:12:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechnicianDashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TechnicianDashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml.cs",
+              "RelativeToolTip": "Views\\TechnicianDashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:13:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechnicianDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TechnicianDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TechnicianDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:08:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:17:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T18:19:41.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:06:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\UserDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\UserDashboardViewModel.cs*",
+              "RelativeToolTip": "ViewModels\\UserDashboardViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:10:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T18:07:48.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:16:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "Services\\SessionService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Services\\SessionService.cs",
+              "RelativeToolTip": "Services\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:21:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Services\\NavigationService.cs",
+              "RelativeToolTip": "Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:18:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.Models\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Models\\User.cs*",
+              "RelativeToolTip": "..\\Ticket2Help.Models\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:44:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.Models\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Models\\Ticket.cs",
+              "RelativeToolTip": "..\\Ticket2Help.Models\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:45:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Repositorios\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Repositorios\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Repositorios\\UserRepository.cs",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Repositorios\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:14:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Repositorios\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Repositorios\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Repositorios\\TicketRepository.cs",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Repositorios\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:05:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:14:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Interfaces\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Interfaces\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Interfaces\\ITicketRepository.cs",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Interfaces\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:04:46.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:55:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\Ticket2Help.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:15:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.BLL\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Services\\TicketService.cs",
+              "RelativeToolTip": "..\\Ticket2Help.BLL\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:03:25.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\Ticket2Help.BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:15:32.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.BLL\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "..\\Ticket2Help.BLL\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:01:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T17:35:37.139Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T18:10:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ticket2Help.DAL",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj",
+              "RelativeToolTip": "..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T17:45:58.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:20:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ticket2Help.BLL",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj",
+              "RelativeToolTip": "..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T17:46:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T18:20:32.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:19:58.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\DashboardView.xaml.cs",
+              "RelativeToolTip": "Views\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:08:23.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Ticket2Help.Models",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Ticket2Help.Models.csproj",
+              "RelativeDocumentMoniker": "..\\Ticket2Help.Models\\Ticket2Help.Models.csproj",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Ticket2Help.Models.csproj",
+              "RelativeToolTip": "..\\Ticket2Help.Models\\Ticket2Help.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T17:59:25.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\UI.csproj",
+              "RelativeDocumentMoniker": "UI.csproj",
+              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\UI.csproj",
+              "RelativeToolTip": "UI.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T17:49:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
