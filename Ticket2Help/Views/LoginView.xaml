@@ -1,21 +1,29 @@
-﻿<Window x:Class="UI.View.LoginView"
+﻿<Window x:Class="UI.LoginView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d"
-        Title="Login"
-        Height="300"
-        Width="400">
+        Title="Login" Height="250" Width="400">
     <Grid Margin="20">
-        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250">
-            <TextBlock Text="Utilizador:" Margin="0,0,0,5"/>
-            <TextBox x:Name="UsernameBox" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
 
-            <TextBlock Text="Palavra-passe:" Margin="0,10,0,5"/>
-            <PasswordBox x:Name="PasswordBox" />
+        <!-- Username -->
+        <Label Grid.Row="0" Grid.Column="0" Content="Username:" VerticalAlignment="Center"/>
+        <TextBox x:Name="UsernameBox" Grid.Row="0" Grid.Column="1" Margin="5" />
 
-            <Button Content="Entrar" Click="LoginButton_Click" Margin="0,20,0,0" />
-        </StackPanel>
+        <!-- Password -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Password:" VerticalAlignment="Center"/>
+        <PasswordBox x:Name="PasswordBox" Grid.Row="1" Grid.Column="1" Margin="5" />
+
+        <!-- Login Button -->
+        <Button Grid.Row="2" Grid.ColumnSpan="2" Content="Login" 
+                HorizontalAlignment="Center" Margin="10"
+                Click="LoginButton_Click"/>
     </Grid>
 </Window>

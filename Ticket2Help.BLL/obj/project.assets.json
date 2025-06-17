@@ -2844,6 +2844,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.6",
       "Microsoft.Extensions.DependencyInjection >= 9.0.6",
       "Ticket2Help.DAL >= 1.0.0",
       "Ticket2Help.Models >= 1.0.0",
@@ -2911,6 +2912,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[9.0.6, )"
+          },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[9.0.6, )"

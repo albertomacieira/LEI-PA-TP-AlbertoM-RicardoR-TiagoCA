@@ -1,19 +1,12 @@
-﻿using System.ComponentModel;
-using System.Windows;
+﻿using System.Windows;
 
-namespace UI.Views
+namespace UI.View
 {
-    public partial class UserDashboardView : Window
+    public partial class UserDashboard : Window
     {
-        public UserDashboardView()
+        public UserDashboard()
         {
             InitializeComponent();
-
-            // Só define o DataContext se não estiver em modo designer
-            if (!DesignerProperties.GetIsInDesignMode(this))
-            {
-                DataContext = new ViewModels.UserDashboardViewModel();
-            }
         }
     }
 }
