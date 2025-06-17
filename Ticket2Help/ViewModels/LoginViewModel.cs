@@ -1,20 +1,34 @@
 ﻿using System.Windows;
-using UI.View;
+using Ticket2Help.BLL.Services;
+using Ticket2Help.Models;
 using UI.Views;
 
 namespace UI.ViewModels
 {
     public class LoginViewModel
     {
+        private readonly AuthService _authService = new(); // Serviço de autenticação
+
         public string Username { get; set; } = string.Empty;
         public string Password { get; set; } = string.Empty;
 
-        // Torna este método público para que o LoginView.xaml.cs o possa usar
         public void Login(Window loginWindow)
         {
-            if (Username == "admin" && Password == "admin")
+            User? user = _authService.Authenticate(Username, Password);
+
+            if (user != null)
             {
-                var dashboard = new UserDashboardView(); // Substituir conforme necessário
+                Window dashboard;
+
+                if (user.Role == "Tecnico")
+                {
+                    dashboard = new TechnicianDashboardView();
+                }
+                else // "User" ou outros
+                {
+                    dashboard = new UserDashboardView();
+                }
+
                 dashboard.Show();
                 loginWindow.Close();
             }
