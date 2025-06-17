@@ -12,7 +12,7 @@ namespace Ticket2Help.BLL.Interfaces
     public interface ITicketService
     {
         IEnumerable<Ticket> GetAllTickets();
-        Ticket GetTicketById(int id);
+        Ticket? GetTicketById(int id);
         void CreateTicket(Ticket ticket);
         void UpdateTicket(Ticket ticket);
         void DeleteTicket(int id);

@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.Windows.Input;
 using UI.Helpers;
 
@@ -9,24 +8,22 @@ namespace UI.ViewModels
     {
         public event PropertyChangedEventHandler? PropertyChanged;
 
-        protected void OnPropertyChanged(string name)
+        protected void OnPropertyChanged(string propertyName)
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
-        // Comando que será ligado ao botão
+        // Comandos
         public ICommand VerTicketsCommand { get; }
 
         public TechnicianDashboardViewModel()
         {
-            // Inicialização do comando com o método a executar
             VerTicketsCommand = new RelayCommand(ExecutarVerTickets);
         }
 
-        private void ExecutarVerTickets(object obj)
+        private void ExecutarVerTickets(object? obj)
         {
-            // Lógica ao clicar no botão
-            System.Windows.MessageBox.Show("Botão 'Ver Tickets' clicado!");
+            System.Windows.MessageBox.Show("Botão 'Ver Tickets Pendentes' clicado!");
         }
     }
 }

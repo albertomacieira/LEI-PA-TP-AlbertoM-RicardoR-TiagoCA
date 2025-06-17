@@ -9,9 +9,9 @@ namespace Ticket2Help.Models
         public int Id { get; set; }
         public string Username { get; set; } = string.Empty;
         public string Password { get; set; } = string.Empty;
-        public string Role { get; set; } = "Utilizador"; // ou "Tecnico"
+        public string Role { get; set; } = "User"; // ou "Tecnico"
 
-        public ICollection<Ticket> Tickets
+        public required ICollection<Ticket> Tickets
         {
             get; set;
         }

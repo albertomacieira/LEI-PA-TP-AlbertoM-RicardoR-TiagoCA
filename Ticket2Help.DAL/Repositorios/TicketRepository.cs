@@ -20,7 +20,7 @@ namespace Ticket2Help.DAL.Repositories
             return _context.Tickets.ToList();
         }
 
-        public Ticket GetById(int id)
+        public Ticket? GetById(int id)
         {
             return _context.Tickets.FirstOrDefault(t => t.Id == id);
         }

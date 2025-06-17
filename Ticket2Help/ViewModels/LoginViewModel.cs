@@ -1,49 +1,26 @@
 ﻿using System.Windows;
-using System.Windows.Input;
-using Ticket2Help.DAL.Data;
+using UI.View;
 using UI.Views;
-using Ticket2Help.Models;
 
 namespace UI.ViewModels
 {
     public class LoginViewModel
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
 
-        public ICommand LoginCommand => new RelayCommand(Login);
-
-        private void Login()
+        // Torna este método público para que o LoginView.xaml.cs o possa usar
+        public void Login(Window loginWindow)
         {
-            using (var context = new AppDbContextFactory().CreateDbContext())
+            if (Username == "admin" && Password == "admin")
             {
-                var user = context.Users.FirstOrDefault(u => u.Username == Username && u.Password == Password);
-
-                if (user != null)
-                {
-                    if (user.Role == "Technician")
-                        new TechnicianDashboardView().Show();
-                    else
-                        new UserDashboardView().Show();
-
-                    CloseLoginWindow();
-                }
-                else
-                {
-                    MessageBox.Show("Credenciais inválidas.");
-                }
+                var dashboard = new UserDashboardView(); // Substituir conforme necessário
+                dashboard.Show();
+                loginWindow.Close();
             }
-        }
-
-        private void CloseLoginWindow()
-        {
-            foreach (Window window in Application.Current.Windows)
+            else
             {
-                if (window is LoginView)
-                {
-                    window.Close();
-                    break;
-                }
+                MessageBox.Show("Credenciais inválidas. Tente novamente.");
             }
         }
     }

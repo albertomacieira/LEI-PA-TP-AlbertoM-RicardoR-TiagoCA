@@ -8,8 +8,6 @@ namespace UI.Views
         public TechnicianDashboardView()
         {
             InitializeComponent();
-
-            // Define o DataContext para permitir ligação (binding) ao ViewModel
             DataContext = new TechnicianDashboardViewModel();
         }
     }

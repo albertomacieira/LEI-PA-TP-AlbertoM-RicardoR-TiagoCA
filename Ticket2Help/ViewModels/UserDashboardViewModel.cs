@@ -9,8 +9,26 @@ namespace UI.ViewModels
 {
     public class UserDashboardViewModel : INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler PropertyChanged;
+        public event PropertyChangedEventHandler? PropertyChanged;
 
-        // Aqui podes adicionar comandos e propriedades ligadas ao dashboard do utilizador
+        protected void OnPropertyChanged(string propertyName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        // Exemplo de uma propriedade ligada ao UI
+        private string _boasVindas = "Bem-vindo ao dashboard!";
+        public string BoasVindas
+        {
+            get => _boasVindas;
+            set
+            {
+                if (_boasVindas != value)
+                {
+                    _boasVindas = value;
+                    OnPropertyChanged(nameof(BoasVindas));
+                }
+            }
+        }
     }
 }
