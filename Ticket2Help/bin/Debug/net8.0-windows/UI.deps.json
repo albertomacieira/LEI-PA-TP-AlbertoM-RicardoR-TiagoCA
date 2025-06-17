@@ -967,7 +967,7 @@
         },
         "runtime": {
           "Ticket2Help.BLL.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -981,7 +981,7 @@
         },
         "runtime": {
           "Ticket2Help.DAL.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -989,7 +989,7 @@
       "Ticket2Help.Models/1.0.0": {
         "runtime": {
           "Ticket2Help.Models.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
