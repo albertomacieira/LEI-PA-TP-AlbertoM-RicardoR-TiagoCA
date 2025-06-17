@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.DAL\\Migrations\\20250617213623_InitialCreateV3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32995728-E074-4888-9851-D5F6A18BEC0D}|..\\Ticket2Help.DAL\\Ticket2Help.DAL.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.dal\\migrations\\20250617213623_initialcreatev3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FE5F82C-827D-4253-B6E3-AA58F21FE61C}|..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.bll\\utilss\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -65,8 +65,7 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T17:04:41.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T17:04:41.116Z"
             },
             {
               "$type": "Document",
@@ -78,8 +77,7 @@
               "RelativeToolTip": "..\\Ticket2Help.BLL\\Utilss\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:59:06.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:59:06.16Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "RelativeToolTip": "..\\Ticket2Help.BLL\\Services\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:50:33.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:50:33.933Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "..\\Ticket2Help.Utils\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:47:56.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:47:56.94Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "RelativeToolTip": "..\\Ticket2Help.DAL\\Data\\AppDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T16:47:34.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T16:47:34.276Z"
             },
             {
               "$type": "Document",

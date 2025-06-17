@@ -158,6 +158,10 @@ C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ti
 C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\UI.pdb
 C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
 C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\UI.exe
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\UI.deps.json
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\UI.runtimeconfig.json
@@ -190,7 +194,6 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -213,7 +216,6 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\System.Memory.Data.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\System.Text.Json.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
@@ -233,7 +235,6 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -282,7 +283,6 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
