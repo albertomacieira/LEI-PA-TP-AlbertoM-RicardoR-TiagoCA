@@ -10,15 +10,15 @@ namespace Ticket2Help.Models
     {
         public int Id { get; set; }
 
-        public string Titulo { get; set; }
+        public required string Titulo { get; set; }
 
-        public string Descricao { get; set; }
+        public required string Descricao { get; set; }
 
         public DateTime DataCriacao { get; set; } = DateTime.Now;
 
         public string Estado { get; set; } = "Aberto"; // Ex: Aberto, Em Progresso, Resolvido
 
         public int UserId { get; set; }
-        public User User { get; set; }
+        public required User User { get; set; }
     }
 }

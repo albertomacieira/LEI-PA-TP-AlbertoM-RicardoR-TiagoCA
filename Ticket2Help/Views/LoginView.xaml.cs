@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using Ticket2Help.ViewModels;
+using UI.ViewModels;
 
-namespace UI.Views
+namespace UI.View
 {
     public partial class LoginView : Window
     {
@@ -10,15 +10,15 @@ namespace UI.Views
         public LoginView()
         {
             InitializeComponent();
-
             _viewModel = new LoginViewModel();
             this.DataContext = _viewModel;
         }
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            _viewModel.Password = PasswordBox.Password; // Lê a password
-            _viewModel.Login(this); // Navega se válido
+            _viewModel.Username = UsernameBox.Text;
+            _viewModel.Password = PasswordBox.Password;
+            _viewModel.Login(this);
         }
     }
 }

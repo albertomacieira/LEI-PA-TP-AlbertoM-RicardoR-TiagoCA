@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Ticket2Help.DAL.Data;
 using UI.Views;
+using UI.View;
+using UI.ViewModels;
 
 namespace UI
 {
