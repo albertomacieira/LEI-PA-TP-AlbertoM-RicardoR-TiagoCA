@@ -21,7 +21,9 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.DAL.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.DAL.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.Models.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.Utils.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.Models.pdb
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\bin\Debug\net8.0\Ticket2Help.Utils.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\obj\Debug\net8.0\Ticket2Help.DAL.csproj.AssemblyReference.cache
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\obj\Debug\net8.0\Ticket2Help.DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.DAL\obj\Debug\net8.0\Ticket2Help.DAL.AssemblyInfoInputs.cache

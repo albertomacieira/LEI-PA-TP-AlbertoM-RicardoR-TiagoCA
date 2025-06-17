@@ -1011,7 +1011,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
           "Microsoft.Extensions.DependencyInjection": "9.0.6",
-          "Ticket2Help.Models": "1.0.0"
+          "Ticket2Help.Models": "1.0.0",
+          "Ticket2Help.Utils": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Ticket2Help.DAL.dll": {}
@@ -1028,6 +1029,16 @@
         },
         "runtime": {
           "bin/placeholder/Ticket2Help.Models.dll": {}
+        }
+      },
+      "Ticket2Help.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Ticket2Help.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ticket2Help.Utils.dll": {}
         }
       }
     }
@@ -2824,13 +2835,19 @@
       "type": "project",
       "path": "../Ticket2Help.Models/Ticket2Help.Models.csproj",
       "msbuildProject": "../Ticket2Help.Models/Ticket2Help.Models.csproj"
+    },
+    "Ticket2Help.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Ticket2Help.Utils/Ticket2Help.Utils.csproj",
+      "msbuildProject": "../Ticket2Help.Utils/Ticket2Help.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.Extensions.DependencyInjection >= 9.0.6",
       "Ticket2Help.DAL >= 1.0.0",
-      "Ticket2Help.Models >= 1.0.0"
+      "Ticket2Help.Models >= 1.0.0",
+      "Ticket2Help.Utils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2871,6 +2888,9 @@
             },
             "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Ticket2Help.Models.csproj": {
               "projectPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Models\\Ticket2Help.Models.csproj"
+            },
+            "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Utils\\Ticket2Help.Utils.csproj": {
+              "projectPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Utils\\Ticket2Help.Utils.csproj"
             }
           }
         }

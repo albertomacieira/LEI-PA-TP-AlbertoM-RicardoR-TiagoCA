@@ -290,9 +290,11 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.BLL.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.DAL.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.Models.dll
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.Utils.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.BLL.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.DAL.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.Models.pdb
+C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\bin\Debug\net8.0-windows\Ticket2Help.Utils.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\Views\DashboardView.baml

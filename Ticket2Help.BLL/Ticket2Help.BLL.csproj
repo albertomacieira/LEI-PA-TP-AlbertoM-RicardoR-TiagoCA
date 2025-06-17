@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Ticket2Help.DAL\Ticket2Help.DAL.csproj" />
     <ProjectReference Include="..\Ticket2Help.Models\Ticket2Help.Models.csproj" />
+    <ProjectReference Include="..\Ticket2Help.Utils\Ticket2Help.Utils.csproj" />
   </ItemGroup>
 
 </Project>

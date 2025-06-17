@@ -963,7 +963,8 @@
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "9.0.6",
           "Ticket2Help.DAL": "1.0.0",
-          "Ticket2Help.Models": "1.0.0"
+          "Ticket2Help.Models": "1.0.0",
+          "Ticket2Help.Utils": "1.0.0"
         },
         "runtime": {
           "Ticket2Help.BLL.dll": {
@@ -977,7 +978,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
           "Microsoft.Extensions.DependencyInjection": "9.0.6",
-          "Ticket2Help.Models": "1.0.0"
+          "Ticket2Help.Models": "1.0.0",
+          "Ticket2Help.Utils": "1.0.0"
         },
         "runtime": {
           "Ticket2Help.DAL.dll": {
@@ -989,6 +991,14 @@
       "Ticket2Help.Models/1.0.0": {
         "runtime": {
           "Ticket2Help.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Ticket2Help.Utils/1.0.0": {
+        "runtime": {
+          "Ticket2Help.Utils.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1566,6 +1576,11 @@
       "sha512": ""
     },
     "Ticket2Help.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ticket2Help.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
