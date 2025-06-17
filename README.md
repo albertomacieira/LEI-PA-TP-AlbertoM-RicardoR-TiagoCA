@@ -1,7 +1,5 @@
 # LEI-PA-TP-AlbertoM-RicardoR-TiagoCA
 
-# LEI-PA-TP-AlbertoM-RicardoR-TiagoCA
-
 # 🎫 Ticket2Help
 
 Ticket2Help é uma aplicação de gestão de tickets de suporte, construída em **WPF (.NET)** com a arquitetura **MVVM**, separação em camadas (UI, BLL, DAL) e autenticação básica por utilizador e técnico.
