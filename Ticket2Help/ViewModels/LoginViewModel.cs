@@ -1,40 +1,38 @@
 ﻿using System.Windows;
+using System.Windows.Input;
 using Ticket2Help.BLL.Services;
 using Ticket2Help.Models;
-using UI.Views;
+using UI.Helpers;
+using UI.ViewModels;    
 
 namespace UI.ViewModels
 {
-    public class LoginViewModel
+    public class LoginViewModel : ViewModelBase
     {
-        private readonly AuthService _authService = new(); // Serviço de autenticação
+        private readonly AuthService _authService;
 
-        public string Username { get; set; } = string.Empty;
-        public string Password { get; set; } = string.Empty;
+        public string Username { get; set; }
+        public string Password { get; set; }
 
-        public void Login(Window loginWindow)
+        public ICommand LoginCommand { get; }
+
+        public LoginViewModel(AuthService authService)
+        {
+            _authService = authService;
+            LoginCommand = new RelayCommand(Login);
+        }
+
+        private void Login()
         {
             User? user = _authService.Authenticate(Username, Password);
-
             if (user != null)
             {
-                Window dashboard;
-
-                if (user.Role == "Tecnico")
-                {
-                    dashboard = new TechnicianDashboardView();
-                }
-                else // "User" ou outros
-                {
-                    dashboard = new UserDashboardView();
-                }
-
-                dashboard.Show();
-                loginWindow.Close();
+                MessageBox.Show($"Bem-vindo, {user.Username} ({user.Role})!", "Login Sucesso", MessageBoxButton.OK, MessageBoxImage.Information);
+                // Redirecionar para a view principal com base no Role...
             }
             else
             {
-                MessageBox.Show("Credenciais inválidas. Tente novamente.");
+                MessageBox.Show("Credenciais inválidas!", "Erro", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }

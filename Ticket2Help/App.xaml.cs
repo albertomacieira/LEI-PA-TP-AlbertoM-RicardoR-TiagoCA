@@ -4,10 +4,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Ticket2Help.DAL.Data;
-using Ticket2Help.BLL.Utilss; 
+using Ticket2Help.BLL.Utilss;
 using UI.Views;
 using UI.ViewModels;
 using UI.View;
+using Ticket2Help.BLL.Services;
 
 namespace UI
 {
@@ -19,33 +20,36 @@ namespace UI
         {
             var services = new ServiceCollection();
 
+            // ✅ Registar o AppDbContext com a connection string
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(@"Server=localhost;Database=Ticket2HelpDB;Trusted_Connection=True;TrustServerCertificate=true;")
                        .ConfigureWarnings(warnings =>
-                           warnings.Ignore(RelationalEventId.PendingModelChangesWarning))
+                           warnings.Ignore(RelationalEventId.PendingModelChangesWarning)) // ignora aviso se modelo mudou
             );
 
-            // Injeção de dependências de views e viewmodels
+            // ✅ Registar views e viewmodels
             services.AddSingleton<LoginView>();
             services.AddSingleton<LoginViewModel>();
-            // Adiciona os outros serviços e viewmodels conforme necessário
+            services.AddSingleton<AuthService>();
+            // 👉 Podes adicionar outras views/viewmodels aqui se necessário
 
             serviceProvider = services.BuildServiceProvider();
 
-            // 🔧 Adiciona o evento de arranque da aplicação aqui:
+            // 👉 Registar evento de arranque
             this.Startup += Application_Startup;
         }
 
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            // Executa o seeder para garantir que o admin existe
             using (var scope = serviceProvider.CreateScope())
             {
                 var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-                DbInitializer.Seed(context); // chama o seed manualmente
+
+                // ✅ Aplica migrations e faz seed do admin
+                DbInitializer.Seed(context);
             }
 
-            // Mostra a janela inicial
+            // ✅ Abre o ecrã de login
             var loginView = serviceProvider.GetRequiredService<LoginView>();
             loginView.Show();
         }
