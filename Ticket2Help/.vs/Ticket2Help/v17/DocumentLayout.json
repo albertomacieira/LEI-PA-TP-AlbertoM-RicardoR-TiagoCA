@@ -151,8 +151,7 @@
               "RelativeToolTip": "..\\Ticket2Help.BLL\\Services\\TicketService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:03:25.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:03:25.853Z"
             },
             {
               "$type": "Document",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "..\\Ticket2Help.BLL\\Interfaces\\ITicketService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:01:41.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:01:41.898Z"
             },
             {
               "$type": "Document",
@@ -189,8 +187,7 @@
               "RelativeToolTip": "..\\Ticket2Help.BLL\\Ticket2Help.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T17:46:48.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T17:46:48.298Z"
             },
             {
               "$type": "Document",
@@ -202,8 +199,7 @@
               "RelativeToolTip": "..\\Ticket2Help.DAL\\Repositorios\\TicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:05:09.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:05:09.873Z"
             },
             {
               "$type": "Document",
@@ -215,8 +211,7 @@
               "RelativeToolTip": "Services\\SessionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:21:53.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:21:53.914Z"
             },
             {
               "$type": "Document",
@@ -228,8 +223,7 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:20:47.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:20:47.069Z"
             },
             {
               "$type": "Document",
@@ -241,8 +235,7 @@
               "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:16:57.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:16:57.854Z"
             },
             {
               "$type": "Document",
@@ -254,8 +247,7 @@
               "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:06:34.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:06:34.517Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "RelativeToolTip": "ViewModels\\UserDashboardViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:10:28.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:10:28.46Z"
             },
             {
               "$type": "Document",
@@ -280,8 +271,7 @@
               "RelativeToolTip": "ViewModels\\TechnicianDashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:08:24.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:08:24.505Z"
             },
             {
               "$type": "Document",
@@ -293,8 +283,7 @@
               "RelativeToolTip": "..\\Ticket2Help.DAL\\Data\\AppDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T08:16:45.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T08:16:45.802Z"
             },
             {
               "$type": "Document",
@@ -305,8 +294,7 @@
               "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\LoginView.xaml",
               "RelativeToolTip": "Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-16T18:19:41.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:19:41.228Z"
             },
             {
               "$type": "Document",
@@ -318,8 +306,7 @@
               "RelativeToolTip": "Views\\LoginView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:19:58.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:19:58.427Z"
             },
             {
               "$type": "Document",
@@ -331,8 +318,7 @@
               "RelativeToolTip": "..\\Ticket2Help.DAL\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:55:41.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:55:41.669Z"
             },
             {
               "$type": "Document",
@@ -344,8 +330,7 @@
               "RelativeToolTip": "Views\\TechnicianDashboardView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T19:13:12.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:13:12.053Z"
             },
             {
               "$type": "Document",
@@ -357,8 +342,7 @@
               "RelativeToolTip": "..\\Ticket2Help.Models\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:44:39.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T17:44:39.319Z"
             },
             {
               "$type": "Document",
@@ -370,8 +354,7 @@
               "RelativeToolTip": "..\\Ticket2Help.Models\\Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:45:12.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T17:45:12.538Z"
             },
             {
               "$type": "Document",
@@ -383,8 +366,7 @@
               "RelativeToolTip": "..\\Ticket2Help.DAL\\Interfaces\\ITicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:04:46.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:04:46.144Z"
             },
             {
               "$type": "Document",
@@ -396,8 +378,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:35:37.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T17:35:37.139Z"
             },
             {
               "$type": "Document",
@@ -408,8 +389,7 @@
               "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\UserDashboardView.xaml",
               "RelativeToolTip": "Views\\UserDashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-16T19:11:48.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T19:11:48.459Z"
             },
             {
               "$type": "Document",
@@ -420,8 +400,7 @@
               "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\DashboardView.xaml",
               "RelativeToolTip": "Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-16T18:07:48.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:07:48.94Z"
             },
             {
               "$type": "Document",
@@ -433,8 +412,7 @@
               "RelativeToolTip": "Services\\NavigationService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T18:18:00.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T18:18:00.264Z"
             },
             {
               "$type": "Document",
