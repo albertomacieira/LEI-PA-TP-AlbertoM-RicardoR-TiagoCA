@@ -1,96 +1,141 @@
-# LEI-PA-TP-AlbertoM-RicardoR-TiagoCA
+🎫 Ticket2Help
+Aplicação de gestão de tickets de suporte, desenvolvida em WPF (.NET) com arquitetura MVVM e separação por camadas (UI, BLL, DAL). Suporta autenticação básica para utilizadores e técnicos.
 
-# 🎫 Ticket2Help
-
-Ticket2Help é uma aplicação de gestão de tickets de suporte, construída em **WPF (.NET)** com a arquitetura **MVVM**, separação em camadas (UI, BLL, DAL) e autenticação básica por utilizador e técnico.
-
----
-
-## 📁 Estrutura do Projeto
+🗂️ Estrutura do Projeto
 
 Ticket2Help/
 │
-├── Ticket2Help.Models/ # Modelos de dados (Ticket, User)
-├── Ticket2Help.DAL/ # Acesso a dados (AppDbContext, Repositórios)
-├── Ticket2Help.BLL/ # Lógica de negócio (Serviços, Interfaces, Autenticação)
-└── UI/ # Interface Gráfica (Views, ViewModels, Navegação)
+├── Ticket2Help.Models/   → Modelos de dados (Ticket, User)
+├── Ticket2Help.DAL/      → Acesso a dados (DbContext, Repositórios)
+├── Ticket2Help.BLL/      → Lógica de negócio (Serviços, Interfaces, Autenticação)
+└── UI/                   → Interface Gráfica (Views, ViewModels, Navegação)
 
 
----
+🔑 Funcionalidades
 
-## 🔑 Funcionalidades
+Autenticação com base no tipo de utilizador (User ou Técnico)
 
-- Login com autenticação por função (`User` ou `Tecnico`)
-- Dashboards separados para cada tipo de utilizador
-- Criação e gestão de tickets
-- Padrão MVVM completo (Binding, Commands, ViewModels)
-- Navegação entre páginas com `NavigationService`
-- Separação por camadas (Clean Architecture)
+Dashboards separados por perfil
 
----
+Criação, edição e gestão de tickets
 
-## 🚀 Como correr o projeto
+Gráfico de pizza com percentagens por estado (via LiveCharts)
 
-### Pré-requisitos
+Labels dos tickets adaptados ao perfil:
 
-- Visual Studio 2022 ou superior
-- .NET 6 ou superior
-- Entity Framework Core
-- SQLite (ou outra BD caso expandas o projeto)
+User: Aberto, Em Progresso, Fechado
 
-### Passos
+Técnico: Por Fazer, Em Andamento, Concluído
 
-1. **Clonar o projeto** ou copiar os ficheiros locais
-2. **Abrir o `.sln` no Visual Studio**
-3. **Instalar pacotes NuGet** (no `Ticket2Help.DAL`, abre a consola e escreve):
+Implementação completa do padrão MVVM:
+
+Bindings, Commands, ViewModels
+
+Navegação entre páginas com NavigationService
+
+Estrutura limpa e modular com Clean Architecture
+
+
+📊 Estatísticas Visuais
+O dashboard inclui um gráfico de pizza interativo, que mostra visualmente a proporção de tickets por estado:
+
+Exemplo:
+
+40% Aberto
+
+30% Em Progresso
+
+30% Fechado
+
+
+🚀 Como Correr o Projeto
+
+✅ Pré-requisitos
+Visual Studio 2022 ou superior
+
+.NET 6 ou superior
+
+Entity Framework Core
+
+SQLite (ou outro provider, se necessário)
+
+⚙️ Passos para Execução
+Clona o repositório ou copia os ficheiros localmente
+
+Abre o .sln no Visual Studio
+
+Instala os pacotes NuGet necessários (na camada DAL):
+
 Install-Package Microsoft.EntityFrameworkCore
 Install-Package Microsoft.EntityFrameworkCore.Sqlite
 Install-Package Microsoft.EntityFrameworkCore.Tools
-4. **Criar a base de dados** (no `Ticket2Help.DAL`):
+
+
+Cria a base de dados (na camada DAL):
+
 Add-Migration InitialCreate
 Update-Database
-5. **Executar o projeto** (a partir da camada `UI`)
 
----
 
-## 👥 Utilizadores de Teste
+Instala o pacote de gráficos (na camada UI):
 
-| Nome de utilizador | Password | Role     |
-|--------------------|----------|----------|
-| joao               | 1234     | User     |
-| maria              | abcd     | User     |
-| tecnico            | 4321     | Tecnico  |
+Install-Package LiveCharts.Wpf -Version 0.9.7
+Corre o projeto a partir da camada UI
 
-> As passwords são encriptadas com `SHA256` (via `PasswordHasher`).
 
----
+👥 Utilizadores de Teste
 
-## 🧠 Tecnologias e Conceitos
+Nome de Utilizador	Password	Role
+joao	1234	User
+maria	abcd	User
+tecnico	4321	Tecnico
 
-- WPF com XAML
-- MVVM (Model-View-ViewModel)
-- Entity Framework Core
-- Injeção de dependências simples (via construtores)
-- Interface-based programming (`ITicketService`, `ITicketRepository`)
-- Autenticação básica
-- Binding, Commands e `INotifyPropertyChanged`
-- Navegação programática com `NavigationService`
+⚠️ As passwords são encriptadas com SHA256 via PasswordHasher.
 
----
 
-## 📌 Possíveis Melhorias Futuras
+🧠 Tecnologias e Conceitos
 
-- Registo de novos utilizadores
-- Acesso com base em BD real (em vez de lista local)
-- Exportação de relatórios
-- Upload de anexos em tickets
-- Notificações internas
+WPF com XAML
 
----
+MVVM (Model-View-ViewModel)
 
-## 🧑‍💻 Autor
+Entity Framework Core
 
-Este projeto foi criado por Alberto Macieira, Ricardo Rodrigues e Tiago Canedo com apoio do ChatGPT para fins académicos/formativos.  
-Licença livre para uso e modificação.
+Injeção de dependências via construtores
 
----
+Interfaces (ex: ITicketService, ITicketRepository)
+
+Autenticação básica
+
+Data Binding, Commands e INotifyPropertyChanged
+
+Navegação com NavigationService
+
+LiveCharts para gráficos dinâmicos
+
+
+📌 Possíveis Melhorias Futuras
+Registo de novos utilizadores
+
+Integração com base de dados remota
+
+Exportação de relatórios (PDF/CSV)
+
+Upload de anexos em tickets
+
+Notificações internas e atribuição de tickets
+
+Dashboard com filtros e intervalos de datas
+
+
+👨‍💻 Autores
+Projeto desenvolvido por:
+
+Alberto Macieira
+
+Ricardo Rodrigues
+
+Tiago Canedo
+
+Com o apoio do ChatGPT, no contexto da unidade curricular LEI-PA-TP.
+Licenciado para fins educativos e formativos, extensível a projetos reais.
