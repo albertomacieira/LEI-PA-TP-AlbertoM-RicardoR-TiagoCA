@@ -1,0 +1,80 @@
+\doxysection{Ticket2\+Help.\+DAL.\+Data.\+App\+Db\+Context Class Reference}
+\hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}{}\label{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}\index{Ticket2Help.DAL.Data.AppDbContext@{Ticket2Help.DAL.Data.AppDbContext}}
+
+
+Representa o contexto da base de dados da aplicação. Contém os Db\+Sets para as entidades e configurações do modelo.  
+
+
+Inheritance diagram for Ticket2\+Help.\+DAL.\+Data.\+App\+Db\+Context\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a02418c115b3f37e63ba657a03d70a92b}{App\+Db\+Context}} (Db\+Context\+Options$<$ \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}{App\+Db\+Context}} $>$ options)
+\begin{DoxyCompactList}\small\item\em Construtor que recebe opções de configuração para o contexto. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+override void \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a62c23539f8bfc78a10f5cfea7cef2390}{On\+Model\+Creating}} (Model\+Builder model\+Builder)
+\begin{DoxyCompactList}\small\item\em Configura as relações entre entidades e insere dados iniciais. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a7678e72bb9611e28d6ca114198067bf7}\label{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a7678e72bb9611e28d6ca114198067bf7} 
+Db\+Set$<$ User $>$ {\bfseries Users}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Tabela de utilizadores. \end{DoxyCompactList}\item 
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a4b0fa5945d2cb606332cdd81e67005a4}\label{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a4b0fa5945d2cb606332cdd81e67005a4} 
+Db\+Set$<$ Ticket $>$ {\bfseries Tickets}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Tabela de pedidos/tickets. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Representa o contexto da base de dados da aplicação. Contém os Db\+Sets para as entidades e configurações do modelo. 
+
+\label{doc-constructors}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_doc-constructors}
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a02418c115b3f37e63ba657a03d70a92b}\index{Ticket2Help.DAL.Data.AppDbContext@{Ticket2Help.DAL.Data.AppDbContext}!AppDbContext@{AppDbContext}}
+\index{AppDbContext@{AppDbContext}!Ticket2Help.DAL.Data.AppDbContext@{Ticket2Help.DAL.Data.AppDbContext}}
+\doxysubsubsection{\texorpdfstring{AppDbContext()}{AppDbContext()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a02418c115b3f37e63ba657a03d70a92b} 
+Ticket2\+Help.\+DAL.\+Data.\+App\+Db\+Context.\+App\+Db\+Context (\begin{DoxyParamCaption}\item[{Db\+Context\+Options$<$ \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}{App\+Db\+Context}} $>$}]{options}{}\end{DoxyParamCaption})}
+
+
+
+Construtor que recebe opções de configuração para o contexto. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em options} & Opções de configuração do contexto.\\
+\hline
+\end{DoxyParams}
+
+
+\label{doc-func-members}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a62c23539f8bfc78a10f5cfea7cef2390}\index{Ticket2Help.DAL.Data.AppDbContext@{Ticket2Help.DAL.Data.AppDbContext}!OnModelCreating@{OnModelCreating}}
+\index{OnModelCreating@{OnModelCreating}!Ticket2Help.DAL.Data.AppDbContext@{Ticket2Help.DAL.Data.AppDbContext}}
+\doxysubsubsection{\texorpdfstring{OnModelCreating()}{OnModelCreating()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context_a62c23539f8bfc78a10f5cfea7cef2390} 
+override void Ticket2\+Help.\+DAL.\+Data.\+App\+Db\+Context.\+On\+Model\+Creating (\begin{DoxyParamCaption}\item[{Model\+Builder}]{model\+Builder}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+Configura as relações entre entidades e insere dados iniciais. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em model\+Builder} & Construtor do modelo da base de dados.\\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Ticket2\+Help.\+DAL/\+Data/App\+Db\+Context.\+cs\end{DoxyCompactItemize}

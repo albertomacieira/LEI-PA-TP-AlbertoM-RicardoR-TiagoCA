@@ -1,0 +1,87 @@
+\doxysection{Ticket2\+Help.\+DAL.\+Repositories.\+User\+Repository Class Reference}
+\hypertarget{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository}{}\label{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository}\index{Ticket2Help.DAL.Repositories.UserRepository@{Ticket2Help.DAL.Repositories.UserRepository}}
+
+
+Implementação do repositório de utilizadores. Responsável pela recuperação de utilizadores da base de dados.  
+
+
+Inheritance diagram for Ticket2\+Help.\+DAL.\+Repositories.\+User\+Repository\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a14b82375c30177a43393796512938cc6}{User\+Repository}} (\mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}{App\+Db\+Context}} context)
+\begin{DoxyCompactList}\small\item\em Construtor que injeta o contexto da base de dados. \end{DoxyCompactList}\item 
+User? \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a17cc5395b9ec756bbec482b616184928}{Get\+By\+Username}} (string username)
+\begin{DoxyCompactList}\small\item\em Obtém um utilizador com base no nome de utilizador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de utilizador.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O utilizador correspondente, ou null se não existir.
+\end{DoxyReturn}
+ \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Implementação do repositório de utilizadores. Responsável pela recuperação de utilizadores da base de dados. 
+
+\label{doc-constructors}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_doc-constructors}
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a14b82375c30177a43393796512938cc6}\index{Ticket2Help.DAL.Repositories.UserRepository@{Ticket2Help.DAL.Repositories.UserRepository}!UserRepository@{UserRepository}}
+\index{UserRepository@{UserRepository}!Ticket2Help.DAL.Repositories.UserRepository@{Ticket2Help.DAL.Repositories.UserRepository}}
+\doxysubsubsection{\texorpdfstring{UserRepository()}{UserRepository()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a14b82375c30177a43393796512938cc6} 
+Ticket2\+Help.\+DAL.\+Repositories.\+User\+Repository.\+User\+Repository (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_1_1_data_1_1_app_db_context}{App\+Db\+Context}}}]{context}{}\end{DoxyParamCaption})}
+
+
+
+Construtor que injeta o contexto da base de dados. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em context} & Contexto da base de dados.\\
+\hline
+\end{DoxyParams}
+
+
+\label{doc-func-members}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a17cc5395b9ec756bbec482b616184928}\index{Ticket2Help.DAL.Repositories.UserRepository@{Ticket2Help.DAL.Repositories.UserRepository}!GetByUsername@{GetByUsername}}
+\index{GetByUsername@{GetByUsername}!Ticket2Help.DAL.Repositories.UserRepository@{Ticket2Help.DAL.Repositories.UserRepository}}
+\doxysubsubsection{\texorpdfstring{GetByUsername()}{GetByUsername()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_1_1_repositories_1_1_user_repository_a17cc5395b9ec756bbec482b616184928} 
+User? Ticket2\+Help.\+DAL.\+Repositories.\+User\+Repository.\+Get\+By\+Username (\begin{DoxyParamCaption}\item[{string}]{username}{}\end{DoxyParamCaption})}
+
+
+
+Obtém um utilizador com base no nome de utilizador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de utilizador.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O utilizador correspondente, ou null se não existir.
+\end{DoxyReturn}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_d_a_l_1_1_interfaces_1_1_i_user_repository_a3cac1dd0a64042781ffce8ea45bbe449}{Ticket2\+Help.\+DAL.\+Interfaces.\+IUser\+Repository}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Ticket2\+Help.\+DAL/\+Repositorios/User\+Repository.\+cs\end{DoxyCompactItemize}

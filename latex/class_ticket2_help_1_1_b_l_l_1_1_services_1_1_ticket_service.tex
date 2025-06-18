@@ -1,0 +1,203 @@
+\doxysection{Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service Class Reference}
+\hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service}{}\label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+
+
+Implementação do serviço de tickets que interage com o repositório de tickets.  
+
+
+Inheritance diagram for Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_acc923aaaf1fdd9043b3fcfb39742df75}{Ticket\+Service}} (ITicket\+Repository ticket\+Repository)
+\begin{DoxyCompactList}\small\item\em Construtor que injeta o repositório de tickets. \end{DoxyCompactList}\item 
+IEnumerable$<$ Ticket $>$ \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a39988422956da565adfe7e87a9d5c12c}{Get\+All\+Tickets}} ()
+\begin{DoxyCompactList}\small\item\em Obtém todos os tickets existentes.
+
+\begin{DoxyReturn}{Returns}
+Uma coleção de todos os tickets.
+\end{DoxyReturn}
+ \end{DoxyCompactList}\item 
+Ticket? \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a8faf42d163bde5d7cb0ca667c5b06c06}{Get\+Ticket\+By\+Id}} (int id)
+\begin{DoxyCompactList}\small\item\em Obtém um ticket pelo seu identificador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & O identificador do ticket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O ticket correspondente ou null se não encontrado.
+\end{DoxyReturn}
+ \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_ac52d507732689a18fb28cd0a9f9ad59a}{Create\+Ticket}} (Ticket ticket)
+\begin{DoxyCompactList}\small\item\em Cria um novo ticket.
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket} & O ticket a ser criado.\\
+\hline
+\end{DoxyParams}
+ \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a693168766720a4b30c68b4b44cf8db58}{Update\+Ticket}} (Ticket ticket)
+\begin{DoxyCompactList}\small\item\em Atualiza um ticket existente.
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket} & O ticket com os dados atualizados.\\
+\hline
+\end{DoxyParams}
+ \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a5f8c38b266a6feefdba5ffc1f97b8485}{Delete\+Ticket}} (int id)
+\begin{DoxyCompactList}\small\item\em Remove um ticket pelo seu identificador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & O identificador do ticket a remover.\\
+\hline
+\end{DoxyParams}
+ \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Implementação do serviço de tickets que interage com o repositório de tickets. 
+
+\label{doc-constructors}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_doc-constructors}
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_acc923aaaf1fdd9043b3fcfb39742df75}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!TicketService@{TicketService}}
+\index{TicketService@{TicketService}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{TicketService()}{TicketService()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_acc923aaaf1fdd9043b3fcfb39742df75} 
+Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Ticket\+Service (\begin{DoxyParamCaption}\item[{ITicket\+Repository}]{ticket\+Repository}{}\end{DoxyParamCaption})}
+
+
+
+Construtor que injeta o repositório de tickets. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket\+Repository} & Repositório de tickets.\\
+\hline
+\end{DoxyParams}
+
+
+\label{doc-func-members}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_ac52d507732689a18fb28cd0a9f9ad59a}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!CreateTicket@{CreateTicket}}
+\index{CreateTicket@{CreateTicket}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{CreateTicket()}{CreateTicket()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_ac52d507732689a18fb28cd0a9f9ad59a} 
+void Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Create\+Ticket (\begin{DoxyParamCaption}\item[{Ticket}]{ticket}{}\end{DoxyParamCaption})}
+
+
+
+Cria um novo ticket.
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket} & O ticket a ser criado.\\
+\hline
+\end{DoxyParams}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_ticket_service_a97e600319714ef0ff2ba7b856072f1f8}{Ticket2\+Help.\+BLL.\+Interfaces.\+ITicket\+Service}}.
+
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a5f8c38b266a6feefdba5ffc1f97b8485}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!DeleteTicket@{DeleteTicket}}
+\index{DeleteTicket@{DeleteTicket}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{DeleteTicket()}{DeleteTicket()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a5f8c38b266a6feefdba5ffc1f97b8485} 
+void Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Delete\+Ticket (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Remove um ticket pelo seu identificador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & O identificador do ticket a remover.\\
+\hline
+\end{DoxyParams}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_ticket_service_afcc93d5fab6b5aed6a76a1fb13549f23}{Ticket2\+Help.\+BLL.\+Interfaces.\+ITicket\+Service}}.
+
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a39988422956da565adfe7e87a9d5c12c}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!GetAllTickets@{GetAllTickets}}
+\index{GetAllTickets@{GetAllTickets}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{GetAllTickets()}{GetAllTickets()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a39988422956da565adfe7e87a9d5c12c} 
+IEnumerable$<$ Ticket $>$ Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Get\+All\+Tickets (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtém todos os tickets existentes.
+
+\begin{DoxyReturn}{Returns}
+Uma coleção de todos os tickets.
+\end{DoxyReturn}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_ticket_service_accd0c8a66ee6173c992378a5b03b9ce6}{Ticket2\+Help.\+BLL.\+Interfaces.\+ITicket\+Service}}.
+
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a8faf42d163bde5d7cb0ca667c5b06c06}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!GetTicketById@{GetTicketById}}
+\index{GetTicketById@{GetTicketById}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{GetTicketById()}{GetTicketById()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a8faf42d163bde5d7cb0ca667c5b06c06} 
+Ticket? Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Get\+Ticket\+By\+Id (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Obtém um ticket pelo seu identificador.
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & O identificador do ticket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O ticket correspondente ou null se não encontrado.
+\end{DoxyReturn}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_ticket_service_a8ff478bd7d4213ec384831989ed63703}{Ticket2\+Help.\+BLL.\+Interfaces.\+ITicket\+Service}}.
+
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a693168766720a4b30c68b4b44cf8db58}\index{Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}!UpdateTicket@{UpdateTicket}}
+\index{UpdateTicket@{UpdateTicket}!Ticket2Help.BLL.Services.TicketService@{Ticket2Help.BLL.Services.TicketService}}
+\doxysubsubsection{\texorpdfstring{UpdateTicket()}{UpdateTicket()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_ticket_service_a693168766720a4b30c68b4b44cf8db58} 
+void Ticket2\+Help.\+BLL.\+Services.\+Ticket\+Service.\+Update\+Ticket (\begin{DoxyParamCaption}\item[{Ticket}]{ticket}{}\end{DoxyParamCaption})}
+
+
+
+Atualiza um ticket existente.
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket} & O ticket com os dados atualizados.\\
+\hline
+\end{DoxyParams}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_ticket_service_a7938cb0bb70beab0b8b5e90855b01a25}{Ticket2\+Help.\+BLL.\+Interfaces.\+ITicket\+Service}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Ticket2\+Help.\+BLL/\+Services/Ticket\+Service.\+cs\end{DoxyCompactItemize}

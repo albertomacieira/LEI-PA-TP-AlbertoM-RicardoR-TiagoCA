@@ -1,0 +1,91 @@
+\doxysection{Ticket2\+Help.\+BLL.\+Services.\+User\+Service Class Reference}
+\hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service}{}\label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service}\index{Ticket2Help.BLL.Services.UserService@{Ticket2Help.BLL.Services.UserService}}
+
+
+Serviço de autenticação de utilizadores com base no repositório.  
+
+
+Inheritance diagram for Ticket2\+Help.\+BLL.\+Services.\+User\+Service\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_ab5fbb8a47ce3cf361cf01dbe0d150a4d}{User\+Service}} (IUser\+Repository repository)
+\begin{DoxyCompactList}\small\item\em Construtor que injeta o repositório de utilizadores. \end{DoxyCompactList}\item 
+User? \mbox{\hyperlink{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_a71ccfe8405e84872d2fc0314e899dc33}{Authenticate}} (string username, string password)
+\begin{DoxyCompactList}\small\item\em Autentica um utilizador com base no nome de utilizador e palavra-\/passe.
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & O nome de utilizador.\\
+\hline
+{\em password} & A palavra-\/passe.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O utilizador autenticado ou null se falhar a autenticação.
+\end{DoxyReturn}
+ \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Serviço de autenticação de utilizadores com base no repositório. 
+
+\label{doc-constructors}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_doc-constructors}
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_ab5fbb8a47ce3cf361cf01dbe0d150a4d}\index{Ticket2Help.BLL.Services.UserService@{Ticket2Help.BLL.Services.UserService}!UserService@{UserService}}
+\index{UserService@{UserService}!Ticket2Help.BLL.Services.UserService@{Ticket2Help.BLL.Services.UserService}}
+\doxysubsubsection{\texorpdfstring{UserService()}{UserService()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_ab5fbb8a47ce3cf361cf01dbe0d150a4d} 
+Ticket2\+Help.\+BLL.\+Services.\+User\+Service.\+User\+Service (\begin{DoxyParamCaption}\item[{IUser\+Repository}]{repository}{}\end{DoxyParamCaption})}
+
+
+
+Construtor que injeta o repositório de utilizadores. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em repository} & Repositório de utilizadores.\\
+\hline
+\end{DoxyParams}
+
+
+\label{doc-func-members}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_a71ccfe8405e84872d2fc0314e899dc33}\index{Ticket2Help.BLL.Services.UserService@{Ticket2Help.BLL.Services.UserService}!Authenticate@{Authenticate}}
+\index{Authenticate@{Authenticate}!Ticket2Help.BLL.Services.UserService@{Ticket2Help.BLL.Services.UserService}}
+\doxysubsubsection{\texorpdfstring{Authenticate()}{Authenticate()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_b_l_l_1_1_services_1_1_user_service_a71ccfe8405e84872d2fc0314e899dc33} 
+User? Ticket2\+Help.\+BLL.\+Services.\+User\+Service.\+Authenticate (\begin{DoxyParamCaption}\item[{string}]{username}{, }\item[{string}]{password}{}\end{DoxyParamCaption})}
+
+
+
+Autentica um utilizador com base no nome de utilizador e palavra-\/passe.
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & O nome de utilizador.\\
+\hline
+{\em password} & A palavra-\/passe.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O utilizador autenticado ou null se falhar a autenticação.
+\end{DoxyReturn}
+ 
+
+
+
+Implements \mbox{\hyperlink{interface_ticket2_help_1_1_b_l_l_1_1_interfaces_1_1_i_user_service_ab81d9175232ace557b488316fd379f0f}{Ticket2\+Help.\+BLL.\+Interfaces.\+IUser\+Service}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Ticket2\+Help.\+BLL/\+Services/User\+Service.\+cs\end{DoxyCompactItemize}
