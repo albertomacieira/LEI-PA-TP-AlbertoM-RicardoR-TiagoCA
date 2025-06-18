@@ -1,3 +1,5 @@
+# LEI-PA-TP-AlbertoM-RicardoR-TiagoCA
+
 🎫 Ticket2Help
 Aplicação de gestão de tickets de suporte, desenvolvida em WPF (.NET) com arquitetura MVVM e separação por camadas (UI, BLL, DAL). Suporta autenticação básica para utilizadores e técnicos.
 
