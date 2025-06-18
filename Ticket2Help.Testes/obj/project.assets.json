@@ -943,23 +943,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alber\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ragr5\\.nuget\\packages\\": {},
+    "D:\\VisualStudio2022\\Package\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
+      "projectUniqueName": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
       "projectName": "Ticket2Help.Testes",
-      "projectPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
-      "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\obj\\",
+      "projectPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
+      "packagesPath": "C:\\Users\\ragr5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\VisualStudio2022\\Package\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ragr5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -987,7 +987,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -1026,7 +1026,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

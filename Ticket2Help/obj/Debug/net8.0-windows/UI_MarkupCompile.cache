@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\obj\Debug\net8.0-windows\
 UI
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help\App.xaml
 5-249007504
 
 16-947250547
-2321655246803
+232-1408934627
 MainWindow.xaml;Views\DashboardView.xaml;Views\LoginView.xaml;Views\TechnicianDashboardView.xaml;Views\UserDashboardView.xaml;
 
 False

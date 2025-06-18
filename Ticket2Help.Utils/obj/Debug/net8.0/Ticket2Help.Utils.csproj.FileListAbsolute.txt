@@ -10,3 +10,15 @@ C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debu
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\refint\Ticket2Help.Utils.dll
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.pdb
 C:\Users\alber\PA\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\ref\Ticket2Help.Utils.dll
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\bin\Debug\net8.0\Ticket2Help.Utils.deps.json
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\bin\Debug\net8.0\Ticket2Help.Utils.dll
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\bin\Debug\net8.0\Ticket2Help.Utils.pdb
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.AssemblyInfoInputs.cache
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.AssemblyInfo.cs
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.csproj.CoreCompileInputs.cache
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.sourcelink.json
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.dll
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\refint\Ticket2Help.Utils.dll
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\Ticket2Help.Utils.pdb
+C:\Users\ragr5\OneDrive\Documentos\GitHub\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\Ticket2Help.Utils\obj\Debug\net8.0\ref\Ticket2Help.Utils.dll
