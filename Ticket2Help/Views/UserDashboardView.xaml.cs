@@ -1,10 +1,14 @@
 ﻿using System.Windows;
+using UI.ViewModel;
 
 namespace UI.View
 {
-    public partial class UserDashboard : Window
+    /// <summary>
+    /// Lógica de interação para UserDashboardView.xaml
+    /// </summary>
+    public partial class UserDashboardView : Window
     {
-        public UserDashboard()
+        public UserDashboardView()
         {
             InitializeComponent();
         }

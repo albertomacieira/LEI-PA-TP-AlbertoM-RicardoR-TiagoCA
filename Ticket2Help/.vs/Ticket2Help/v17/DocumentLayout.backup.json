@@ -1,9 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\",
+  "WorkspaceRootPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC38EBF5-D5E6-43CE-82A6-6D50E6ED486B}|..\\Ticket2Help.Utils\\Ticket2Help.Utils.csproj|c:\\users\\ragr5\\onedrive\\documentos\\github\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help.utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\estatisticasdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\estatisticasdashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\estatisticasdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\estatisticasdashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\estatisticasdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\estatisticasdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\techniciandashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\techniciandashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\views\\techniciandashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:views\\techniciandashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|c:\\users\\alber\\pa\\lei-pa-tp-albertom-ricardor-tiagoca\\ticket2help\\viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F053D2E-9F05-4C07-B440-6BE235993870}|UI.csproj|solutionrelative:viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,24 +34,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Utils\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "..\\Ticket2Help.Utils\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Utils\\PasswordHasher.cs",
-              "RelativeToolTip": "..\\Ticket2Help.Utils\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:25:20.64Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstatisticasDashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\EstatisticasDashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\EstatisticasDashboardView.xaml",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\EstatisticasDashboardView.xaml",
+              "RelativeToolTip": "Views\\EstatisticasDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T13:50:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstatisticasDashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\EstatisticasDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\EstatisticasDashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\EstatisticasDashboardView.xaml.cs",
+              "RelativeToolTip": "Views\\EstatisticasDashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:48:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstatisticasDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\EstatisticasDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EstatisticasDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\EstatisticasDashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EstatisticasDashboardViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:47:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnicianDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TechnicianDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TechnicianDashboardViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:40:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechnicianDashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TechnicianDashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml.cs",
+              "RelativeToolTip": "Views\\TechnicianDashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:40:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechnicianDashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml",
+              "RelativeDocumentMoniker": "Views\\TechnicianDashboardView.xaml",
+              "ToolTip": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help\\Views\\TechnicianDashboardView.xaml",
+              "RelativeToolTip": "Views\\TechnicianDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T13:39:29.495Z",
+              "EditorCaption": ""
             }
           ]
         }

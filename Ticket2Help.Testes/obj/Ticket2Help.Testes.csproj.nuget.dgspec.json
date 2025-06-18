@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj": {}
+    "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj": {
+    "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
         "projectName": "Ticket2Help.Testes",
-        "projectPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
-        "packagesPath": "C:\\Users\\ragr5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragr5\\OneDrive\\Documentos\\GitHub\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\obj\\",
+        "projectPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\Ticket2Help.Testes.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\PA\\LEI-PA-TP-AlbertoM-RicardoR-TiagoCA\\Ticket2Help.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualStudio2022\\Package\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ragr5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -22,13 +22,16 @@ namespace UI.ViewModels
 
             if (user != null)
             {
-                var dashboard = new UserDashboard();
-                dashboard.Show();
-                loginWindow.Close();
+                var dashboardView = new UserDashboardView(); // ← Corrigido: usar a View
+                dashboardView.Show();                        // ← Abre a janela
+                loginWindow.Close();                         // ← Fecha o login
             }
             else
             {
-                MessageBox.Show("Nome de utilizador ou palavra-passe inválidos.", "Erro de Login", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Nome de utilizador ou palavra-passe inválidos.",
+                                "Erro de Login",
+                                MessageBoxButton.OK,
+                                MessageBoxImage.Error);
             }
         }
     }

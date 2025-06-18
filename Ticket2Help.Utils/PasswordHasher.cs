@@ -21,7 +21,8 @@ namespace Ticket2Help.Utils
             byte[] salt = new byte[8];
             rng.GetBytes(salt);
 
-            using var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000);
+            // Atualizado: especificar o algoritmo SHA256
+            using var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000, HashAlgorithmName.SHA256);
             byte[] hash = pbkdf2.GetBytes(32);
 
             return $"{Convert.ToBase64String(salt)}:{Convert.ToBase64String(hash)}";
@@ -41,7 +42,8 @@ namespace Ticket2Help.Utils
             byte[] salt = Convert.FromBase64String(parts[0]);
             byte[] storedHash = Convert.FromBase64String(parts[1]);
 
-            using var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000);
+            // Atualizado: especificar o algoritmo SHA256
+            using var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000, HashAlgorithmName.SHA256);
             byte[] hash = pbkdf2.GetBytes(32);
 
             return hash.SequenceEqual(storedHash);
